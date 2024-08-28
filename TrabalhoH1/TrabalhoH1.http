@@ -1,0 +1,6 @@
+@TrabalhoH1_HostAddress = http://localhost:5287
+
+GET {{TrabalhoH1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
